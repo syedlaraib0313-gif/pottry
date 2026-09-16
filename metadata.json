@@ -1,0 +1,6 @@
+{
+  "name": "Mitti & Bloom",
+  "description": "Boutique handmade home décor and lifestyle brand from Jaipur, Rajasthan. Handcrafted pottery, terracotta décor, scented soy candles, planters, and artisan homewares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
